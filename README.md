@@ -1,6 +1,6 @@
-# Hyprland - ifunx
-- For ifunx Hyprland btw
-- iFunction and Linux
+#       Hyprland - ifunx - Dotfiles
+- For ifunx Hyprland(future distro)
+- iFunction + Linux
 
 ### Hyprland Demo:
 not here yet cuz i forgot to upload
