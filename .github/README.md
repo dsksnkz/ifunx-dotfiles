@@ -20,4 +20,5 @@ cd ~/matte-dotfiles
 # credits
 - Rofi Menu: bintangm
 - Waybar: Zeibytes
+- hyprlock dotfiles: bintangm
 
